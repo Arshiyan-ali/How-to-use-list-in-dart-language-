@@ -3,3 +3,6 @@ void main(){
   fruits.add('orange');
   print(fruits);
 }
+
+//output:
+//[banana,apple,mango,orange]
